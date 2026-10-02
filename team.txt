@@ -1,3 +1,5 @@
 Team members: A-Hexagone584 B-HrishithKarumbaiah
 Favorite programming language: TBD
-Team motto: praying it works 
+Team motto:rust
+
+Team motto: praying it rusts 
